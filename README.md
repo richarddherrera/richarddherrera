@@ -63,13 +63,14 @@ Me chamo Richard Herrera Gomes, tenho 19 anos. Atualmente estou cursando Anális
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-<br/>       
-<br>
+<br><br>
 
 <p align="center">
-  <em>Explore meus projetos</em><br>
-  ⌄
+  <em>Dê uma olhada nos meus repositórios</em><br>
+  ↓
 </p>
+
+
 
 
  
