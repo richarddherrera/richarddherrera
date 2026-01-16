@@ -71,6 +71,6 @@ Me chamo Richard Herrera Gomes, tenho 19 anos. Atualmente estou cursando Anális
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=richarddherrera&show_icons=true&theme=dark&include_all_commits=true&cache_seconds=1800)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richarddherrera&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&cache_seconds=1800)
 
  
