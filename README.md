@@ -1,76 +1,37 @@
+# Olá! 👋 Eu sou Richard Herrera Gomes
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-End+%7C+Java+%2B+Python;Entusiasta+de+IA+%7C+Prompt+Engineering;Estudante+de+ADS+%7C+UNICSUL;Construindo+o+futuro+com+código!" alt="Typing SVG" />
+</div>
 
+## 🚀 Sobre Mim
+<br>
 
-# 👨🏽‍💻 Richard Herrera 
+🎯 **Desenvolvedor Back-End de 19 anos** de São Paulo, Brasil, apaixonado por construir sistemas robustos e explorar tecnologias de IA. Atualmente no último semestre de **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul (UNICSUL)**, formando-me em junho de 2026.
+💡 **Foco Atual:** Desenvolvimento back-end com **Java** e **Python**, integração de IA e engenharia de prompt. Acredito que a tecnologia tem o poder de transformar realidades e quero fazer parte dessa transformação!
 
-**`Desenvolvedor Back-End`**
+## 🛠️ Tecnologias
+<br>
 
-Me chamo Richard Herrera Gomes, tenho 19 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Estou muito empolgado em estar sempre aprendendo novas tecnologia e tenho o sonho de me tornar um engenheiro de software! 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,mysql,git,github,linux,fedora" />
+</div>
 
----
+## 📊 Estatísticas do GitHub
+<br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richarddherrera&theme=dracula&hide_border=true&background=282A36&stroke=BD93F9&ring=BD93F9&fire=FFB86C&currStreakLabel=F8F8F2" alt="GitHub Streak"/>
+</div>
 
+## 📈 Gráfico de Atividade
+<br>
 
-### 🤖 Linguagens e Tecnologias
-<img
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img
-    align="left" 
-    alt="PYTHON" 
-    title="PYTHON"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richarddherrera&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFB86C" alt="Activity Graph"/>
+</div>
 
+<div align="center">
+  <i>🚀 "Construindo o futuro, uma linha de código de cada vez!"</i>
+</div>
 
-            
-          
-
-<br/>
-<br/>
-
-### 📚 Aprendendo
-
-<img 
-    align="left" 
-    alt="SPRING" 
-    title="SPRING"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<br><br>
-
-<p align="center">
-  <em>Dê uma olhada nos meus repositórios</em><br>
-  ↓
-</p>
-
-
-
-
- 
